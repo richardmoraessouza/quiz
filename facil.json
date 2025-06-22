@@ -1,0 +1,102 @@
+[
+  {
+    "questão": "1",
+    "pergunta": "Qual tag HTML é usada para criar um parágrafo?",
+    "a": "A) <text>",
+    "b": "B) <para>",
+    "c": "C) <p>",
+    "d": "D) <div>",
+    "e": "E) <span>",
+    "correto": "c"
+  },
+  {
+    "questão": "2",
+    "pergunta": "Qual linguagem é usada para aplicar estilos em uma página web?",
+    "a": "A) JavaScript",
+    "b": "B) CSS",
+    "c": "C) HTML",
+    "d": "D) PHP",
+    "e": "E) SQL",
+    "correto": "b"
+  },
+  {
+    "questão": "3",
+    "pergunta": "O que o atributo `src` define em uma tag `<img>`?",
+    "a": "A) O tamanho da imagem",
+    "b": "B) O caminho da imagem",
+    "c": "C) O título da imagem",
+    "d": "D) A descrição da imagem",
+    "e": "E) A borda da imagem",
+    "correto": "b"
+  },
+  {
+    "questão": "4",
+    "pergunta": "Qual dos seguintes é um tipo de input HTML?",
+    "a": "A) <input type='button'>",
+    "b": "B) <input type='video'>",
+    "c": "C) <input type='audio'>",
+    "d": "D) <input type='style'>",
+    "e": "E) <input type='script'>",
+    "correto": "a"
+  },
+  {
+    "questão": "5",
+    "pergunta": "Qual a tag correta para criar uma quebra de linha?",
+    "a": "A) <lb>",
+    "b": "B) <break>",
+    "c": "C) <br>",
+    "d": "D) <nl>",
+    "e": "E) <hr>",
+    "correto": "c"
+  },
+  {
+    "questão": "6",
+    "pergunta": "Qual a função principal do HTML?",
+    "a": "A) Definir estilos",
+    "b": "B) Fazer cálculos",
+    "c": "C) Estruturar conteúdo da página",
+    "d": "D) Interagir com banco de dados",
+    "e": "E) Executar scripts",
+    "correto": "c"
+  },
+  {
+    "questão": "7",
+    "pergunta": "Qual propriedade CSS define a cor do texto?",
+    "a": "A) font-color",
+    "b": "B) background-color",
+    "c": "C) color",
+    "d": "D) text-color",
+    "e": "E) font-style",
+    "correto": "c"
+  },
+  {
+    "questão": "8",
+    "pergunta": "Qual tag HTML é usada para criar links?",
+    "a": "A) <link>",
+    "b": "B) <url>",
+    "c": "C) <a>",
+    "d": "D) <href>",
+    "e": "E) <goto>",
+    "correto": "c"
+  },
+  {
+    "questão": "9",
+    "pergunta": "O que faz `console.log('Olá')`?",
+    "a": "A) Mostra uma mensagem de erro",
+    "b": "B) Imprime no console do navegador",
+    "c": "C) Gera um alerta",
+    "d": "D) Reinicia a página",
+    "e": "E) Envia dados para o servidor",
+    "correto": "b"
+  },
+  {
+    "questão": "10",
+    "pergunta": "O que o atributo `alt` faz em uma tag `<img>`?",
+    "a": "A) Aplica um efeito na imagem",
+    "b": "B) Define uma legenda abaixo",
+    "c": "C) Descreve a imagem para acessibilidade",
+    "d": "D) Adiciona um link à imagem",
+    "e": "E) Gira a imagem",
+    "correto": "c"
+  }
+]

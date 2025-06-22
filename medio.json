@@ -1,0 +1,102 @@
+[
+  {
+    "questão": "1",
+    "pergunta": "O que significa a sigla DOM?",
+    "a": "A) Document Object Model",
+    "b": "B) Data Output Module",
+    "c": "C) Document Output Manager",
+    "d": "D) Dynamic Object Map",
+    "e": "E) Display Object Model",
+    "correto": "a"
+  },
+  {
+    "questão": "2",
+    "pergunta": "Qual método adiciona um item ao final de um array em JavaScript?",
+    "a": "A) push()",
+    "b": "B) append()",
+    "c": "C) insert()",
+    "d": "D) add()",
+    "e": "E) extend()",
+    "correto": "a"
+  },
+  {
+    "questão": "3",
+    "pergunta": "Como se seleciona um elemento com id 'menu' em CSS?",
+    "a": "A) .menu",
+    "b": "B) #menu",
+    "c": "C) menu{}",
+    "d": "D) *menu",
+    "e": "E) id:menu",
+    "correto": "b"
+  },
+  {
+    "questão": "4",
+    "pergunta": "Qual evento JavaScript é acionado ao clicar em um botão?",
+    "a": "A) load",
+    "b": "B) click",
+    "c": "C) change",
+    "d": "D) input",
+    "e": "E) hover",
+    "correto": "b"
+  },
+  {
+    "questão": "5",
+    "pergunta": "Qual a principal vantagem de usar Flexbox em CSS?",
+    "a": "A) Gerar efeitos animados",
+    "b": "B) Criar formulários",
+    "c": "C) Posicionar elementos de forma responsiva",
+    "d": "D) Diminuir o tempo de carregamento",
+    "e": "E) Aplicar cores automáticas",
+    "correto": "c"
+  },
+  {
+    "questão": "6",
+    "pergunta": "Qual desses métodos retorna o primeiro elemento que corresponde a um seletor?",
+    "a": "A) getElementById()",
+    "b": "B) querySelectorAll()",
+    "c": "C) querySelector()",
+    "d": "D) getElementsByTagName()",
+    "e": "E) getElement()",
+    "correto": "c"
+  },
+  {
+    "questão": "7",
+    "pergunta": "Qual a saída de typeof null em JavaScript?",
+    "a": "A) null",
+    "b": "B) object",
+    "c": "C) undefined",
+    "d": "D) string",
+    "e": "E) boolean",
+    "correto": "b"
+  },
+  {
+    "questão": "8",
+    "pergunta": "O que faz a propriedade z-index em CSS?",
+    "a": "A) Define o espaçamento entre linhas",
+    "b": "B) Define a ordem de empilhamento dos elementos",
+    "c": "C) Altera o zoom do conteúdo",
+    "d": "D) Aplica transparência",
+    "e": "E) Remove margem",
+    "correto": "b"
+  },
+  {
+    "questão": "9",
+    "pergunta": "O que e.preventDefault() faz em um evento JavaScript?",
+    "a": "A) Envia o formulário automaticamente",
+    "b": "B) Previne o comportamento padrão do navegador",
+    "c": "C) Remove o evento",
+    "d": "D) Atualiza a página",
+    "e": "E) Reinicia o input",
+    "correto": "b"
+  },
+  {
+    "questão": "10",
+    "pergunta": "Qual o resultado de 2 + '2' em JavaScript?",
+    "a": "A) 4",
+    "b": "B) 22",
+    "c": "C) NaN",
+    "d": "D) '4'",
+    "e": "E) Erro",
+    "correto": "b"
+  }
+]

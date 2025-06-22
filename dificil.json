@@ -1,0 +1,102 @@
+[
+  {
+    "questão": "21",
+    "pergunta": "O que é hoisting em JavaScript?",
+    "a": "A) Técnica de otimização de CSS",
+    "b": "B) Elevação de declarações para o topo do escopo",
+    "c": "C) Criação de funções dinâmicas",
+    "d": "D) Carregamento de recursos externos",
+    "e": "E) Ocultamento de variáveis",
+    "correto": "b"
+  },
+  {
+    "questão": "22",
+    "pergunta": "O que faz o método map() em arrays?",
+    "a": "A) Remove elementos",
+    "b": "B) Retorna um novo array com base em uma função",
+    "c": "C) Adiciona elementos ao final",
+    "d": "D) Ordena os itens em ordem crescente",
+    "e": "E) Altera o array original",
+    "correto": "b"
+  },
+  {
+    "questão": "23",
+    "pergunta": "Para que serve o Shadow DOM?",
+    "a": "A) Criar páginas escuras",
+    "b": "B) Melhorar performance de animações",
+    "c": "C) Encapsular HTML/CSS em componentes",
+    "d": "D) Reduzir o uso de memória",
+    "e": "E) Manipular o DOM do servidor",
+    "correto": "c"
+  },
+  {
+    "questão": "24",
+    "pergunta": "Qual das opções representa uma função anônima em JavaScript?",
+    "a": "A) function nome() {}",
+    "b": "B) () => {}",
+    "c": "C) function() {}",
+    "d": "D) const x = 10;",
+    "e": "E) if() {}",
+    "correto": "c"
+  },
+  {
+    "questão": "25",
+    "pergunta": "Qual a principal vantagem de componentes no React?",
+    "a": "A) Gerar gráficos automaticamente",
+    "b": "B) Encapsular lógica e visual de forma reutilizável",
+    "c": "C) Aumentar a quantidade de código",
+    "d": "D) Melhorar o SEO sem necessidade de servidores",
+    "e": "E) Eliminar o uso de HTML",
+    "correto": "b"
+  },
+  {
+    "questão": "26",
+    "pergunta": "O que é uma closure em JavaScript?",
+    "a": "A) Uma função recursiva",
+    "b": "B) Uma variável global",
+    "c": "C) Uma função que acessa variáveis de seu escopo externo",
+    "d": "D) Um tipo de loop",
+    "e": "E) Uma classe interna",
+    "correto": "c"
+  },
+  {
+    "questão": "27",
+    "pergunta": "Qual é o objetivo do atributo 'key' em listas do React?",
+    "a": "A) Identificar elementos únicos e melhorar performance na renderização",
+    "b": "B) Garantir que todos os elementos tenham o mesmo estilo",
+    "c": "C) Adicionar funcionalidade de login",
+    "d": "D) Servir como senha de acesso",
+    "e": "E) Controlar o foco da lista",
+    "correto": "a"
+  },
+  {
+    "questão": "28",
+    "pergunta": "Como você pode evitar 'prop drilling' no React?",
+    "a": "A) Usando classes em vez de funções",
+    "b": "B) Usando Redux ou Context API",
+    "c": "C) Usando apenas componentes de classe",
+    "d": "D) Evitando usar props",
+    "e": "E) Usando useEffect",
+    "correto": "b"
+  },
+  {
+    "questão": "29",
+    "pergunta": "O que significa SSR (Server-Side Rendering)?",
+    "a": "A) Salvar o estado no navegador",
+    "b": "B) Renderizar o conteúdo no servidor antes de enviar para o navegador",
+    "c": "C) Rodar JavaScript no banco de dados",
+    "d": "D) Criar rotas automaticamente",
+    "e": "E) Sincronizar estado entre abas",
+    "correto": "b"
+  },
+  {
+    "questão": "30",
+    "pergunta": "Qual a finalidade do Webpack em aplicações front-end modernas?",
+    "a": "A) Compilar arquivos Sass em CSS puro",
+    "b": "B) Concatenar arquivos HTML",
+    "c": "C) Agrupar, transformar e otimizar arquivos como JS, CSS e imagens",
+    "d": "D) Testar o código automaticamente",
+    "e": "E) Gerar chaves de segurança para API",
+    "correto": "c"
+  }
+]
