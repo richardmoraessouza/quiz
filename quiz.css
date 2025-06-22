@@ -93,7 +93,7 @@ button {
 }
 
 .alternativa {
-  height: 40px;
+  height: auto;
   width: 100%;
   border: 1.5px solid #5dade2;
   display: flex;
