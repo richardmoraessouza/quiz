@@ -145,6 +145,11 @@ button {
   cursor: default;
 }
 
+.desativado {
+  pointer-events: none;
+  opacity: 0.6;
+  cursor: not-allowed;
+}
 #progresso {
   font-weight: bold;
   text-align: center;
@@ -157,7 +162,7 @@ button {
     margin: auto;
   }
 
-  .quiz {
+  #quiz {
     width: 50%;
   }
 }

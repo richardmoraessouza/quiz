@@ -1,6 +1,6 @@
 [
   {
-    "questão": "21",
+    "questão": "1",
     "pergunta": "O que é hoisting em JavaScript?",
     "a": "A) Técnica de otimização de CSS",
     "b": "B) Elevação de declarações para o topo do escopo",
@@ -10,7 +10,7 @@
     "correto": "b"
   },
   {
-    "questão": "22",
+    "questão": "2",
     "pergunta": "O que faz o método map() em arrays?",
     "a": "A) Remove elementos",
     "b": "B) Retorna um novo array com base em uma função",
@@ -20,7 +20,7 @@
     "correto": "b"
   },
   {
-    "questão": "23",
+    "questão": "3",
     "pergunta": "Para que serve o Shadow DOM?",
     "a": "A) Criar páginas escuras",
     "b": "B) Melhorar performance de animações",
@@ -30,7 +30,7 @@
     "correto": "c"
   },
   {
-    "questão": "24",
+    "questão": "4",
     "pergunta": "Qual das opções representa uma função anônima em JavaScript?",
     "a": "A) function nome() {}",
     "b": "B) () => {}",
@@ -40,7 +40,7 @@
     "correto": "c"
   },
   {
-    "questão": "25",
+    "questão": "5",
     "pergunta": "Qual a principal vantagem de componentes no React?",
     "a": "A) Gerar gráficos automaticamente",
     "b": "B) Encapsular lógica e visual de forma reutilizável",
@@ -50,7 +50,7 @@
     "correto": "b"
   },
   {
-    "questão": "26",
+    "questão": "6",
     "pergunta": "O que é uma closure em JavaScript?",
     "a": "A) Uma função recursiva",
     "b": "B) Uma variável global",
@@ -60,7 +60,7 @@
     "correto": "c"
   },
   {
-    "questão": "27",
+    "questão": "7",
     "pergunta": "Qual é o objetivo do atributo 'key' em listas do React?",
     "a": "A) Identificar elementos únicos e melhorar performance na renderização",
     "b": "B) Garantir que todos os elementos tenham o mesmo estilo",
@@ -70,7 +70,7 @@
     "correto": "a"
   },
   {
-    "questão": "28",
+    "questão": "8",
     "pergunta": "Como você pode evitar 'prop drilling' no React?",
     "a": "A) Usando classes em vez de funções",
     "b": "B) Usando Redux ou Context API",
@@ -80,7 +80,7 @@
     "correto": "b"
   },
   {
-    "questão": "29",
+    "questão": "9",
     "pergunta": "O que significa SSR (Server-Side Rendering)?",
     "a": "A) Salvar o estado no navegador",
     "b": "B) Renderizar o conteúdo no servidor antes de enviar para o navegador",
@@ -90,7 +90,7 @@
     "correto": "b"
   },
   {
-    "questão": "30",
+    "questão": "10",
     "pergunta": "Qual a finalidade do Webpack em aplicações front-end modernas?",
     "a": "A) Compilar arquivos Sass em CSS puro",
     "b": "B) Concatenar arquivos HTML",

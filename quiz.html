@@ -40,7 +40,7 @@
             </button>
           </li>
           <li>
-            <button class="btn btn-outline-primary">
+            <button class="btn btn-outline-primary" id="modo-dificil">
               <i class="bi bi-emoji-angry me-2"></i>Difícil
             </button>
           </li>
@@ -60,14 +60,6 @@
           <p class="alternativa" id="d"></p>
           <p class="alternativa" id="e"></p>
         </div>
-        <audio
-          src="audios/mixkit-correct-answer-tone-2870.wav"
-          id="acertou"
-        ></audio>
-        <audio
-          src="audios/mixkit-game-show-wrong-answer-buzz-950.wav"
-          id="errou"
-        ></audio>
       </section>
 
       <section id="resultado_final" class="shadow">
@@ -77,6 +69,30 @@
         <p id="mensagem_final"></p>
         <button class="btn btn-primary" id="reiniciar">Voltar</button>
       </section>
+      <audio
+        src="audios/mixkit-correct-answer-tone-2870.wav"
+        id="acertou"
+      ></audio>
+      <audio
+        src="audios/mixkit-game-show-wrong-answer-buzz-950.wav"
+        id="errou"
+      ></audio>
+      <audio
+        src="audios/mixkit-winning-a-coin-video-game-2069.wav"
+        id="modo-escolhido"
+      ></audio>
+      <audio
+        src="audios/mixkit-completion-of-a-level-2063.wav"
+        id="acertou-todas"
+      ></audio>
+      <audio
+        src="audios/mixkit-player-losing-or-failing-2042.wav"
+        id="pratique"
+      ></audio>
+      <audio
+        src="audios/mixkit-video-game-treasure-2066.wav"
+        id="acertou-metade"
+      ></audio>
     </main>
     <footer id="progresso">
       <h2 class="progresso_atual">1 de 10</h2>
