@@ -24,3 +24,6 @@ A ideia é simples: o usuário escolhe um nível de dificuldade (Fácil, Médio 
 - Bootstrap 5 + Bootstrap Icons
 - Efeitos sonoros com a tag `<audio>`
 
+## 🔗 Link do Site
+
+👉 [https://richardmoraessouza.github.io/quiz/](https://richardmoraessouza.github.io/quiz/)
