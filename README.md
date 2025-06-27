@@ -25,4 +25,4 @@ A ideia é simples: o usuário escolhe um nível de dificuldade (Fácil, Médio 
 - Efeitos sonoros com a tag `<audio>`
 
 ##🔗 link do site
-👉 [https://richardmoraessouza.github.io/quiz/](https://richardmoraessouza.github.io/quiz/)
+👉 [https://perguntas-front-end.netlify.app/](https:/perguntas-front-end.netlify.app/)
