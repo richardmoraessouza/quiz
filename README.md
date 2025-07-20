@@ -23,3 +23,7 @@ A ideia é simples: o usuário escolhe um nível de dificuldade (Fácil, Médio 
 - JavaScript puro (sem frameworks)
 - Bootstrap 5 + Bootstrap Icons
 - Efeitos sonoros com a tag `<audio>`
+
+## 🔗 Link do Site
+
+👉 [https://perguntas-front-end.netlify.app/](https://perguntas-front-end.netlify.app/)
