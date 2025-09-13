@@ -27,3 +27,10 @@ A ideia é simples: o usuário escolhe um nível de dificuldade (Fácil, Médio 
 ## 🔗 Link do Site
 
 👉 [https://perguntas-front-end.netlify.app/](https://perguntas-front-end.netlify.app/)
+
+
+## 👨‍💻 Autor
+
+**Richard Moraes Souza**
+- GitHub: [@richardmoraessouza](https://github.com/richardmoraessouza)
+- LinkedIn: [Richard Moraes Souza](https://www.linkedin.com/in/richard-moraes-souza/)
